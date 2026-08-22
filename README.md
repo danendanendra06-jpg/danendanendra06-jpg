@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Danendra
 
-<!--
-**danendanendra06-jpg/danendanendra06-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student   
+🤖 Interested in AI & Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm an Informatics student who enjoys building software projects
+and exploring new technologies.
+
+Currently learning:
+- Python
+- JavaScript
+- Web Development
+- AI & Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Technologies**
+
+Python • JavaScript • PHP • MySQL • Java
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Library Management System
+
+A library management application developed as part of my software development projects.
+
+### 🎨 Mini Photoshop
+
+A simple image editing application created as a project for learning image processing and computer graphics concepts.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **danendanendra06@gmail.com**
