@@ -64,7 +64,7 @@ A simple image editing application developed as a project to explore image proce
 
 ## 📊 GitHub Stats
 
-![Danendra's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=danendranendra06-jpg&theme=tokyonight) 
+![Danendra's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=danendranendra06&theme=tokyonight) 
 
 ---
 
