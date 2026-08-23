@@ -64,7 +64,7 @@ A simple image editing application developed as a project to explore image proce
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=danendranendra06-jpg&layout=compact&theme=tokyonight)
+![Danendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danendranendra06-jpg&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
