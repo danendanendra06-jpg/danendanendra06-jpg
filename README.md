@@ -64,9 +64,11 @@ A simple image editing application developed as a project to explore image proce
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=danendranendra06-jpg&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danendranendra06-jpg&layout=compact)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danendranendra06-jpg&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danendranendra06-jpg&theme=github_dark)
 
 ## 📫 Connect With Me
 
