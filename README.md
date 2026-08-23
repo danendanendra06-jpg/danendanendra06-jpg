@@ -64,7 +64,7 @@ A simple image editing application developed as a project to explore image proce
 
 ## 📊 GitHub Stats
 
-![Danendra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danendranendra06-jpg&theme=tokyonight)
+![Top Langs](https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=danendranendra06-jpg&layout=compact&theme=tokyonight)
 
 ---
 
