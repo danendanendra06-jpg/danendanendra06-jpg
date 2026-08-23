@@ -47,9 +47,7 @@ software development projects.
 ---
 
 ### 🎨 Mini Photoshop
-
-A simple image editing application developed as a project
-to explore image processing and computer graphics concepts.
+A simple image editing application developed as a project to explore image processing and computer graphics concepts.
 
 🔗 [View Repository](https://github.com/danendranendra06-jpg/Mini-Photoshop_Projek-PCD)
 
@@ -57,16 +55,16 @@ to explore image processing and computer graphics concepts.
 
 ## 🌱 Currently Exploring
 
-🤖 Artificial Intelligence  
-🧠 Machine Learning  
-🌐 Web Development  
-🐍 Python Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Web Development
+- 🐍 Python Development
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats will be added here -->
+![Danendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=danendranendra06-jpg&show_icons=true&theme=radial)
 
 ---
 
