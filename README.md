@@ -42,14 +42,14 @@ real-world problems.
 A library management application developed as part of my
 software development projects.
 
-🔗 [View Repository](https://github.com/danendranendra06-jpg/Capstone_Library-System)
+🔗 [View Repository](https://github.com/danendanendra06-jpg/Capstone_Library-System)
 
 ---
 
 ### 🎨 Mini Photoshop
 A simple image editing application developed as a project to explore image processing and computer graphics concepts.
 
-🔗 [View Repository](https://github.com/danendranendra06-jpg/Mini-Photoshop_Projek-PCD)
+🔗 [View Repository](https://github.com/danendanendra06-jpg/Mini-Photoshop_Projek-PCD)
 
 ---
 
@@ -66,9 +66,9 @@ A simple image editing application developed as a project to explore image proce
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danendranendra06-jpg&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danendanendra06-jpg&theme=github_dark)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danendranendra06-jpg&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danendanendra06-jpg&theme=github_dark)
 
 ## 📫 Connect With Me
 
