@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Danendra
 
-🎓 Informatics Student  
+🎓 Informatics Student at Politeknik Negeri Jakarta  
 🤖 Interested in AI & Web Development
 
 I'm an Informatics student who enjoys building software projects,
