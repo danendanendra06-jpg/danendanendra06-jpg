@@ -64,8 +64,6 @@ A simple image editing application developed as a project to explore image proce
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danendanendra06-jpg&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danendanendra06-jpg&theme=github_dark)
