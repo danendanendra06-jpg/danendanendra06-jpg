@@ -67,10 +67,10 @@ A simple image editing application developed as a project to explore image proce
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danendranendra06-jpg&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danendanendra06-jpg&theme=github_dark" />
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danendranendra06-jpg&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danendanendra06-jpg&theme=github_dark" />
 </td>
 </tr>
 </table>
